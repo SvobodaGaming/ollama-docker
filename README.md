@@ -2,7 +2,7 @@
 # Ollama-docker with NVIDIA CUDA Support 🤖🐳
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-20)
 
-This Docker container provides a GPU-accelerated environment for running Ollama, leveraging NVIDIA CUDA and cuDNN. Designed to resolve compatibility issues with [openweb-ui](#) (link placeholder), it enables seamless AI model execution on NVIDIA GPUs.
+This Docker container provides a GPU-accelerated environment for running Ollama, leveraging NVIDIA CUDA and cuDNN. Designed to resolve compatibility issue with [openweb-ui](#) ([#9012](https://github.com/open-webui/open-webui/issues/9012)), it enables seamless AI model execution on NVIDIA GPUs.
 
 ## Features ✨
 - Full NVIDIA GPU acceleration via CUDA/cuDNN
